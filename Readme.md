@@ -1,0 +1,1 @@
+`sbt compile` works just fine, and yet `sbt doc` fails to pick up expanded macro methods. See [Foo.scala](https://github.com/mhzajac/sbt-scaladoc-macro-test/blob/master/src/main/scala/Foo.scala).
